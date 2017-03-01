@@ -9,9 +9,9 @@
 import UIKit
 
 class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
+
 // MARK: - property -
-    
-    
+        
 // MARK: - life cycle -
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -19,17 +19,20 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
     }
 
     override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        
-    }
-    
+        super.didReceiveMemoryWarning()    
+    }   
 }
 
+// MARK: - private methods -
+
+// MARK: - event response -
 
 // MARK: - UITableViewDelegate -
 
 // MARK: - CustomDelegate -
 
-// MARK: - event response -
 
-// MARK: - private methods -
+
+
+
+
